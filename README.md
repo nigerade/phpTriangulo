@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Lado Triangulo - Php </h1>
 
 <p align="center">
-Projeto de Site em HTML5 e CSS3 pela matéria ILP-540 desenvolvido durante o curso Análise e Desenvolvimento de Sistemas pela Fatec São Paulo    
+Projeto de Php onde o usuário entra com 3 lados de um triângulo e o programa retorna com a definição do Triângulo (Equilátero, Isósceles ou Escaleno). Projeto desenvolvido pela matéria de ILP-540, Eletiva para Internet pela Fatec São Paulo.  
 </p>
 
 ---
@@ -18,17 +18,18 @@ Projeto de Site em HTML5 e CSS3 pela matéria ILP-540 desenvolvido durante o cur
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5 e CSS3
-- JavaScript
+- Php
 - Git e Github
-- Biblioteca Glider (Javascript)
+- XAMPP Control Panel
 
 ---
 
 ## 🚧 Projeto
 
-Este projeto foi desenvolvido como um Teste para dominar os principais aspectos das tecnologias HTML e CSS.
+Projeto de Php onde o usuário entra com 3 lados de um triângulo e o programa retorna com a definição do Triângulo (Equilátero, Isósceles ou Escaleno). Projeto desenvolvido pela matéria de ILP-540, Eletiva para Internet pela Fatec São Paulo.
+Este projeto faz parte da composição de nota para o final do Semestre.
 
-Você pode ver o site neste link: [Lados Triangulo - Php]()
+Para ver o site baixe o zip, coloque a pasta no Htdocs do Xampp, inicie o Xampp com Apache e MySQL, e rode no localhost da máquina com o nome da pasta. Exemplo: localhost/phpTriangulo/ 
 
 --- 
 
