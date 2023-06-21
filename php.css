@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lados {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.campo {
+    border: 1px solid #000;
+    padding: 0.5rem;
+    box-shadow: 4px 4px 4px #ccc;
+}
+
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    margin-top: 4rem;
+}
+
+.texto {
+    text-align: center;
+    margin-top: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#container-php{
+    margin-top: 8rem;
+}
